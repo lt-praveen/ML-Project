@@ -1,0 +1,23 @@
+CLIMATELENS — CLIMATE PATTERN CLUSTERING WEBSITE
+================================================
+
+HOW TO OPEN
+1. Extract the ZIP.
+2. Open index.html in Chrome, Edge, Firefox, or Safari.
+3. Sign in with demo@climatelens.local / climate123, or choose Continue as guest.
+4. The website starts with synthetic demo data so you can explore the interface immediately.
+5. For the actual project presentation, click “Load your CSV” and choose the real Indian Climate Dataset CSV.
+6. Follow: Dataset & EDA → Preprocessing → K-Means → Hierarchical → Model comparison.
+7. Read DEMO_GUIDE.md for the oral explanation, metric interpretation and likely viva questions.
+
+IMPORTANT
+- Initial data is synthetic. Never present its metric values as results from the project's real dataset.
+- The uploaded CSV stays within the browser; there is no backend/server upload.
+- The browser's hierarchical tree uses up to 180 training records to keep the dendrogram responsive. Explain this as a demonstration limitation.
+- Use the final metrics from your project's actual Python notebook in the official report if they differ from this web demo.
+
+TEAM 15
+Praveen (2520030406)
+Venkat (2520030450)
+Guide: Dr. Shaik Asif
+Machine Learning | A.Y. 2026–27
